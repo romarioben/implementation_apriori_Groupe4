@@ -1,0 +1,11 @@
+ia_venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+base3.csv
+IRIS.csv
+kmeans_autre_data_set.py
+knn_autre_dataset.py
+KNNAlgorithmDataset.csv
+Exercice_KNN.py
+Kmeans_1.py
